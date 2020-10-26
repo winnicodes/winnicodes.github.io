@@ -47,6 +47,18 @@ i.fa {
     margin: 20px auto;
 }
 
+#links h1 {
+    font-size: 1rem;
+    font-weight: 300;
+    letter-spacing: 0.2rem;
+    margin: 0 auto;
+    color: #fff;
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
 .link {
     display: block;
     background-color: rgba(66, 110, 255, 0.2);
