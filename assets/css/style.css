@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
 
 body {
-    background-color: 	#505050;
+    background-color: 	#D6CFCB;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
 }
@@ -16,7 +16,7 @@ body {
 }
 
 #userName {
-    color: #fff;
+    color: #331115;
     display: block;
     width: 100%;
     text-align: center;
@@ -41,7 +41,7 @@ i.fa {
 }
 
 #links {
-    max-width: 300px;
+    max-width: 250px;
     width: auto;
     display: block;
     margin: 20px auto;
@@ -52,7 +52,7 @@ i.fa {
     font-weight: 300;
     letter-spacing: 0.2rem;
     margin: 0 auto;
-    color: #fff;
+    color: #331115;
     display: block;
     width: 100%;
     text-align: center;
@@ -62,7 +62,7 @@ i.fa {
 .link {
     display: block;
     background-color: #331115;
-    color: #fff;
+    color: #D6CFCB;
     text-align: center;
     margin-bottom: 20px;
     padding: 17px;
