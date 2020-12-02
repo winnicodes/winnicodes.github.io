@@ -48,6 +48,16 @@ i.fa {
     margin: 20px auto;
 }
 
+#preview p{
+    font-size: 1rem;
+    font-weight: 300;
+    margin-top: 5px;
+    letter-spacing: 0.2rem;
+    text-transform: none;
+    text-align: center;
+    text-decoration: none;
+}
+
 #preview h1 {
     font-size: 2rem;
     font-weight: 500;
@@ -78,7 +88,7 @@ i.fa {
     border: 1px solid #331115;
     border-radius: 10px 10px 10px 10px;
     height: 2px;
-    width: 100%;
+    width: 50%;
 }
 
 #preview img {
